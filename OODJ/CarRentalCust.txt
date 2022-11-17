@@ -1,0 +1,6 @@
+CustName;CustEmail;CustContact;CustPass;CustAddress	
+Lee Ah Hok;Lee@gmail.com;016-9999999;LeeLeeLee;999,Jalan ABC, Taman 123, 7999 Bam
+Ali;Ali@gmail.com;999999999;123;asdas adasd
+Ahmad;Ahmad@gmail.com;999;123;999,Jalan ABC, Taman 123, 9999 klajda
+Ali;Ali@gmail.com;0166666666;111;adsadada
+Fam Jun Wei;Fam@gmail.com;0167237156;abc123;999

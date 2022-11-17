@@ -1,0 +1,3 @@
+B001;Jaguar;F-type;2;manual;90000;Yes
+B002;Nissan;Skyline;4;manual;2000;Yes
+B003;Toyota;Vellfire;7;automatic;1500;No
